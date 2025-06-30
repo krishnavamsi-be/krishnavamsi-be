@@ -28,8 +28,10 @@
 - 🧠 **Microsoft Azure Fundamentals (AZ-900)** – *Completed*  
 - 🐍 **Programming, Data Structures and Algorithms Using Python** – *NPTEL | Completed*  
 - 🏆 **Oracle Learning Explorer Badge** – *Oracle University | Completed*
+- 🏅 **Oracle MySQL Badge** - *Oracle University / Completed*
+- 🐍 **GeeksforGeeks free python course with certificate** - *GeeksForGeeks / Completed*
+- 🐍 **Coding Ninjas – Basics of Python (Part 1 & Part 2)** - *Coding Ninjas by Code 360 / Completed*
 
----
 
 ## 💼 Work Experience
 
