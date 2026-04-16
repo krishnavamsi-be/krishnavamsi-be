@@ -51,21 +51,15 @@ Hi, I'm Krishna Vamsi
 ## 🚀 Projects
 
 _Still learning — projects coming soon!_  
-Stay tuned for Django-based apps and Python tools.
+
 
 ---
 
 ## 🌐 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/kuchimanchi-krishna-vamsi-b3222a207)
-- [Code360 – Coding Ninjas](https://www.naukri.com/code360/profile/eae126ed-a11d-49c4-96c3-01853a67e044)
 - [HackerRank](https://www.hackerrank.com/profile/krishnavamsicoo1)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/user/krishnavams8zp/)
-- [HackerEarth](https://www.hackerearth.com/@krishnavamsicool436/)
 - [LeetCode](https://leetcode.com/u/4nwTTWeOg4/)
-- [CodeChef](https://www.codechef.com/users/clowder_sky_79)
-- [Codeforces](https://codeforces.com/profile/krishna_vamsi_536)
-- [Striver A2Z DSA Sheet](https://takeuforward.org/profile/krishna_vamsi_123)
 
 ---
 
