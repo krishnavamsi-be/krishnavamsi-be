@@ -1,26 +1,15 @@
-# 👋 Hi, I'm Krishna Vamsi
+Hi, I'm Krishna Vamsi
 
-🎯 Aspiring Backend Developer  
-💻 Currently learning Python and SQL  
-📚 Passionate about building scalable backend systems  
-📍 India | Open to remote internships and learning collaborations
-
----
-
-## 🛠️ Skills
-
-- **Languages**: Python (in progress), SQL (in progress), Data Structures and Algorithms (in progress)
-
----
-
-## 📚 Learning Progress
-
-- ✅ Python Basics  
-- ✅ SQL Basics  
-- 🚧 Data Structures & Algorithms  
-- 🔜 Django (coming soon)  
-- 🔜 System Design (LLD & HLD – planned)
-
+🎯 Aspiring Data Engineer
+💻 5 YOE in enterprise data 
+   pipelines and ETL systems
+🛠️ SQL · Python · Airflow · 
+   GCP · PySpark
+📚 Currently building DE portfolio
+   and targeting GCP certification
+📍 Hyderabad, India
+🤝 Open to Data Engineer roles
+   at product companies
 ---
 
 ## 🏅 Certifications & Badges
